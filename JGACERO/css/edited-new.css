@@ -1,0 +1,203 @@
+.mediz-logo {
+    padding-bottom: 2px;
+    padding-top: 9px
+}
+.mediz-navigation {
+    padding-top:20px;
+}
+.mediz-navigation .sf-menu > li > a {
+    padding-bottom: 40px;
+}
+.mediz-animate-fixed-navigation.mediz-header-style-plain .mediz-logo,
+ .mediz-animate-fixed-navigation.mediz-header-style-boxed .mediz-logo {
+    padding-top: 1px;
+}
+.mediz-animate-fixed-navigation.mediz-header-style-plain .mediz-logo, .mediz-animate-fixed-navigation.mediz-header-style-boxed .mediz-logo {
+    padding-bottom: 2px;
+}
+/* .gdlr-core-item-pdlr{
+    padding-left: 89px;
+} */
+.sf-menu > li > a:hover, .sf-menu > li.current-menu-item > a, .sf-menu > li.current-menu-ancestor > a, .sf-vertical > li > a:hover, .sf-vertical > li.current-menu-item > a, .sf-vertical > li.current-menu-ancestor > a{
+    color: #f27d00;
+}
+.mediz-navigation .sf-menu > .mediz-mega-menu .sf-mega-section-inner > a {
+    color: #50a04f;
+}
+.sf-menu > .mediz-normal-menu li, .sf-menu > .mediz-mega-menu > .sf-mega, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li{
+    box-shadow: 2px 2px 10px rgb(0 0 0 / 30%);
+}
+.gdlr-core-pbf-element .gdlr-core-button-item a{
+    text-transform: capitalize !important;
+    font-size: 15px !important;
+}
+.gdlr-core-button-item a.gdlr-core-button:hover{
+    background-color: #f27d00 !important;
+    color: #fff !important;
+    border-radius: 20px !important;
+    padding:5px 10px !important;
+    transition: all 0.3s;
+}
+.gdlr-core-button-item a.gdlr-core-button:hover i.gdlr-core-pos-right{
+    color: #fff !important;
+}
+.mycols:hover{
+    box-shadow: 2px 2px 10px;
+}
+.gdlr-core-personnel-style-grid .gdlr-core-personnel-list-title, .gdlr-core-personnel-style-grid .gdlr-core-personnel-list-title a {
+    color: #f07c00;
+}
+.gdlr-core-page-builder-body [data-skin="Personal HP Dentist"] .gdlr-core-skin-divider{
+    border-color: #50a04f;
+    column-rule-color: #50a04f;
+    -moz-column-rule-color: #50a04f;
+    -webkit-column-rule-color: #50a04f;
+}
+.gdlr-core-page-builder-body [data-skin="Personal HP Dentist"] .gdlr-core-flexslider .flex-control-nav li a.flex-active{
+    background-color: #f07c00;
+}
+.gdlr-core-page-builder-body [data-skin="HP Dentist Counter"] .gdlr-core-skin-content,.gdlr-core-page-builder-body [data-skin="Mediz A2 Counter"] .gdlr-core-skin-content{
+    color: #fff !important;
+}
+p{
+    text-align: justify;
+}
+.gdlr-core-skill-bar-item .gdlr-core-skill-bar{
+    margin-top: 17px;
+}
+.gdlr-core-skill-bar-item.gdlr-core-size-small .gdlr-core-skill-bar-head{
+    margin-bottom: 3px;
+}
+.myimg{
+    border: 6px solid white !important;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px;
+}
+.gdlr-core-title-item-caption-bottom .gdlr-core-title-item-caption ,.gdlr-core-title-item-caption-bottom .gdlr-core-title-item-caption{
+    margin-top:  !important;
+}
+.col-md-5.hoverdiv:hover{
+    box-shadow: 0px 2px 10px rgb(29 29 29) !important;
+}
+.dwndbtn:hover,.mediz-sidebar-area a:hover .dwndbtn{
+    color: #fff !important;
+}
+.mediz-sidebar-area .mediz-widget {
+    margin-bottom: 25px;
+}
+
+.div1:hover,.div2:hover,.div3:hover,.div4:hover,.div5:hover,.div6:hover,.div7:hover.div8:hover,.div9:hover,
+.div10:hover,.div11:hover,.div12:hover{
+    opacity: 1;
+}
+.div1,.div2,.div3,.div4,.div5,.div6,.div7,.div8,.div9,.div10,.div11,.div12{
+    background-size: cover;
+    padding: 10px;
+    padding-bottom: 5px;
+    border: 2px solid rgb(138 191 140);
+    border-radius: 20px;
+    opacity: 0.8;
+}
+.div1 h4,.div2 h4,.div3 h4,.div4 h4,.div5 h4,.div6 h4,.div7 h4,.div8 h4,.div9 h4,.div10 h4,
+.div11 h4,.div12 h4{
+    padding-bottom: 190px;
+    color: #ff700a;
+    font-size: 20px;
+
+}
+.div1{
+    background: url('../images/products/rapid-mixer-granular.jpg');
+   
+}
+.div2{
+    background: url('../images/products/vissel.jpg');  
+}
+.div3{
+    background: url('../images/products/LMP.jpg');  
+}
+.div4{
+    background: url('../images/products/planetarymix.jpg');  
+}
+.div5{
+    background: url('../images/products/ointment-new.jpg');  
+}
+.div6{
+    background: url('../images/products/lipstick1.jpg');  
+}
+.div7{
+    background: url('../images/products/pressure-vessel.jpg');  
+}
+.div8{
+    background: url('../images/products/creamlotion1.jpg');  
+}
+.div9{
+    background: url('../images/products/food/fermentation1.jpg');  
+}
+.div10{
+    background: url('../images/products/food/cip1.jpg');  
+}
+.div11{
+    background: url('../images/products/chemical/heat.jpg');  
+}
+.div12{
+    background: url('../images/products/chemical/exotic.jpg');  
+}
+.border-bottom{
+    width: 180px;
+    border-radius: 10px;
+    border: 5px solid orange;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+img.img-holder{
+    border: 3px solid #ebd1c2;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px rgb(0 0 0 / 30%);
+}
+.hoverdiv{
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px rgb(0 0 0 / 30%);
+}
+.product-img{
+    border: 1px solid lightslategrey;
+    border-radius: 10px;
+}
+.gdlr-core-accordion-style-background-title-icon .gdlr-core-accordion-item-title{
+    padding: 10px 25px 10px;
+}
+.gdlr-core-accordion-style-background-title-icon .gdlr-core-accordion-item-title{
+    margin-bottom: 5px;
+}
+.gdlr-core-accordion-item-content{
+    border: 1px solid gray;
+    padding: 5px !important;
+    border-top: none;
+    margin-bottom: 5px;
+}
+.gdlr-core-accordion-style-background-title-icon .gdlr-core-active .gdlr-core-accordion-item-title,.gdlr-core-page-builder-body [data-skin="Personal HP Dentist"] .gdlr-core-flexslider-nav.gdlr-core-round-style li a{
+    background-color: #ff8508;
+}
+.gdlr-core-accordion-style-background-title-icon .gdlr-core-accordion-item-title{
+    background-color: #ef983e;
+}
+.gdlr-core-accordion-style-background-title-icon .gdlr-core-accordion-item-title,.gdlr-core-accordion-style-background-title-icon .gdlr-core-accordion-item-title:before{
+    color: #ffffff;
+}
+
+.arrow_carrot-right:before,.arrow_carrot-left:before{
+    color: #fff !important;
+}
+.gdlr-core-flexslider-nav.gdlr-core-round-style li a{
+    padding: 5px;
+}
+.gdlr-core-personnel-style-grid .gdlr-core-personnel-list-content-wrap {
+    padding-top: 10px !important;
+}
+.gdlr-core-personnel-style-grid .gdlr-core-personnel-list-divider {
+    padding-top: 2px !important;
+}
+p.product-class{
+    
+    margin-bottom: 4px !important;
+}
